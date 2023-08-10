@@ -2,7 +2,7 @@
 ## Lecturer: Prof. Tom Rainforth   https://www.robots.ox.ac.uk/~twgr/
 Workshop Lecturer: DPhil Pramit Saha   https://eng.ox.ac.uk/people/pramit-saha/ 
 
-Group Leader: ShuFan Chen (University of Science and Technology of China)
+Group Leader: ShuFan Chen (University of Science and Technology of China, USTC)
 
 Group Members: WenJie Shen (USTC), XinYi Li (USTC), Jing Xu (University of Ningbo, Nottingham), JingHan Liu (USTC).
 
