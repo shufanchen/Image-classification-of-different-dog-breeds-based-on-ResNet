@@ -5,11 +5,9 @@ def augment_images_in_folders(base_folder):
     for breed_folder in os.listdir(base_folder):
         breed_path = os.path.join(base_folder, breed_folder)
         
-        # 遍历当前品种文件夹下的所有图片
         for image_file in os.listdir(breed_path):
             image_path = os.path.join(breed_path, image_file)
             
-            # 对当前图片进行数据增强
             image_augmentor = Image_enhance(image_path)
             image_augmentor.SaltAndPepper(percetage=0.2)
             image_augmentor.addGaussianNoise(percetage=0.2)
@@ -28,7 +26,7 @@ def augment_images_in_folders(base_folder):
         print(breed_folder + '\t' + 'mission completed')
 
 if __name__ == "__main__":
-    # 设置文件夹路径
-    base_folder = 'train_'  # 这里需要根据你的文件夹命名方式进行修改
+    # set the path 
+    base_folder = 'train_'  
 
     augment_images_in_folders(base_folder)
