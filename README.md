@@ -8,6 +8,8 @@ Group Members: WenJie Shen (USTC), XinYi Li (USTC), Jing Xu (University of Ningb
 
 This is the assignment for Oxford Summer Course on ML 2023. Our model ranked second place in the Kaggle competition. Please visit the Overleaf version at https://www.overleaf.com/read/gwmzwyhsgttv.
 
+We finished second in the kaggle competition,and the competition website is in https://www.kaggle.com/competitions/oxford-study-abroad-ml-assignment/leaderboard
+
 Our original dataset is in https://www.kaggle.com/competitions/oxford-study-abroad-ml-assignment/data
 
 You can find an augmented dataset in http://vision.stanford.edu/aditya86/ImageNetDogs/ 
